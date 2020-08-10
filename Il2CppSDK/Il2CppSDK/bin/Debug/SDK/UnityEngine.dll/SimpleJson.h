@@ -1,5 +1,0 @@
-#include "Includes/SimpleJson/JsonArray.h"
-#include "Includes/SimpleJson/JsonObject.h"
-#include "Includes/SimpleJson/SimpleJson.h"
-#include "Includes/SimpleJson/IJsonSerializerStrategy.h"
-#include "Includes/SimpleJson/PocoJsonSerializerStrategy.h"
